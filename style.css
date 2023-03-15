@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+.header{
+    background-color: rgb(68, 53, 4);
+    color: white;
+    padding: 60px;
+    border: 5px solid rgb(223, 186, 152);
+    
+}
+.main h2{
+    text-align: left;
+    margin-top: 20px;
+    padding: 30px;
+}
+.main{
+    background-image: url(images/he.jpg);
+    width: 99%;
+    margin-top: 5px;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    border: 5px solid rgb(223, 186, 152);
+    
+}
